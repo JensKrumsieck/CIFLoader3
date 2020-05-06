@@ -1,0 +1,32 @@
+{
+  "name": "cifloader3",
+  "version": "0.1.0",
+  "description": "A CIF-File loader for three.js",
+  "main": "CIFLoader.js",
+  "typings": "CIFLoader.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JensKrumsieck/CIFLoader3.git"
+  },
+  "keywords": [
+    "three.js",
+    "CIF",
+    "chemistry"
+  ],
+  "author": "Jens Krumsieck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JensKrumsieck/CIFLoader3/issues"
+  },
+  "homepage": "https://github.com/JensKrumsieck/CIFLoader3#readme",
+  "dependencies": {
+    "three": "^0.116.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}

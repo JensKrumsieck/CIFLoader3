@@ -2,7 +2,7 @@
  * @author JensKrumsieck / http://jenskrumsieck.de
  */
 
-import { Loader, FileLoader, BufferGeometry, Float32Attribute, Float32BufferAttribute } from 'three';
+import { Loader, FileLoader, BufferGeometry, Float32BufferAttribute } from 'three';
 
 var CIFLoader = function (manager) {
     Loader.call(this, manager);
