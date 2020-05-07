@@ -1,6 +1,6 @@
 {
   "name": "cifloader3",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "description": "A CIF-File loader for three.js",
   "main": "CIFLoader.js",
   "typings": "CIFLoader.d.ts",
@@ -24,9 +24,5 @@
   "homepage": "https://github.com/JensKrumsieck/CIFLoader3#readme",
   "dependencies": {
     "three": "^0.116.1"
-  },
-  "devDependencies": {
-    "babel-preset-env": "^1.7.0",
-    "babel-register": "^6.26.0"
   }
 }
