@@ -17,6 +17,7 @@ If you're using it in Nuxt.js like me don't forget to transpile three and cifloa
     }
 
 ## Usage
+```javascript
 	import  *  as  THREE  from  'three'
 	import { CIFLoader } from  'cifloader3'
 	var loader = new CIFLoader();
@@ -29,7 +30,7 @@ If you're using it in Nuxt.js like me don't forget to transpile three and cifloa
 	function(error) {
 		//handle errors here
 	});
-
+```
 For further information have a look at the three.js examples directory: [THREE](https://github.com/mrdoob/three.js)
 	
 
