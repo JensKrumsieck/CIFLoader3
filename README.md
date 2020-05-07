@@ -1,7 +1,7 @@
 
 # CIFLoader3
 **CIF-File Loader for Three.js**  
-![npm](https://img.shields.io/npm/v/cifloader3)![GitHub package.json version](https://img.shields.io/github/package-json/v/jenskrumsieck/CIFLoader3)
+![npm](https://img.shields.io/npm/v/cifloader3)
 
 CIF-Files are file containing crystallographic information about molecules (which can be obtained here: [CCDC](https://www.ccdc.cam.ac.uk/))
 
