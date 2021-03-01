@@ -4,9 +4,6 @@
   "description": "A CIF-File loader for three.js",
   "main": "CIFLoader.js",
   "typings": "CIFLoader.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
