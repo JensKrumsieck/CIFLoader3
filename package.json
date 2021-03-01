@@ -4,7 +4,6 @@
   "description": "A CIF-File loader for three.js",
   "main": "CIFLoader.js",
   "typings": "CIFLoader.d.ts",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JensKrumsieck/CIFLoader3.git"
