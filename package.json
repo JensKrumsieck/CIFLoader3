@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/JensKrumsieck/CIFLoader3#readme",
   "dependencies": {
-    "three": "~0.126.0"
+    "three": "~0.137.0"
   }
 }
