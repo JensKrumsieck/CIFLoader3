@@ -1,6 +1,6 @@
 {
   "name": "cifloader3",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "A CIF-File loader for three.js",
   "main": "CIFLoader.js",
   "typings": "CIFLoader.d.ts",
